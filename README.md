@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajeevkavala/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rajeevkavala37@gmail.com)  
 
-📄 **[View My Resume]([https://drive.google.com/file/d/1JJsesyIJeCBczBKKJiRir_TK0qX_LuyW/view?usp=sharing](https://www.rajeevkavala.me/Rajeev_Resume.pdf))**  
+📄 **[View My Resume]([https://www.rajeevkavala.me/Rajeev_Resume.pdf])**  
 
 ---
 
