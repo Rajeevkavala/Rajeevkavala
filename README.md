@@ -36,7 +36,7 @@ An AI-powered **Learning Management System** offering structured learning and re
 - 🔗 **Backend**: Spring Boot, MongoDB  
 - 🤖 **AI Chatbot**: Integrated with Google’s Gemini API  
 
-🔗 [Project Repository](https://github.com/Rajeevkavala/CodeMasters)  
+🔗 [Project Repository](https://github.com/Rajeevkavala/CodeMasters-Frontend)  
 
 ---
 
